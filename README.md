@@ -40,7 +40,6 @@ This project involves:
 - **SQL Server Management Studio (SSMS)**: GUI for managing and querying databases.
 - **Git**: Version control and collaboration via GitHub.
 - **Draw.io**: For designing data architectures and diagrams.
-- **Notion**: Project management and task tracking via Notion template.
 
 ---
 
@@ -77,7 +76,3 @@ For more details, refer to the [docs](./docs).
 
 Hi there! I'm **Declan Rhys Dkhar Phanbuh**, an IT professional on a mission to expand my knowledge and make working with data enjoyable and engaging!
 
-Let's stay in touch — feel free to connect with me on:
-
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://www.github.com)
